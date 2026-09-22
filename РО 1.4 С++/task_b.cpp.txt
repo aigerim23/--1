@@ -1,0 +1,9 @@
+#include <iostream>
+using namespace std;
+
+int main() {
+    cout << "Вася" << endl;
+    cout << "\tпошел" << endl;
+    cout << "\t\tгулять" << endl;
+    return 0;
+}

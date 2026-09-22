@@ -1,0 +1,12 @@
+#include <iostream>
+using namespace std;
+
+int main() {
+    cout << "   Ж" << endl;
+    cout << "  ЖЖЖ" << endl;
+    cout << " ЖЖЖЖЖ" << endl;
+    cout << "ЖЖЖЖЖЖЖ" << endl;
+    cout << " HH HH" << endl;
+    cout << " ZZZZZ" << endl;
+    return 0;
+}
