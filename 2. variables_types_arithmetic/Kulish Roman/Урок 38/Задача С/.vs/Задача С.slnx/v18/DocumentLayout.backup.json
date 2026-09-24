@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Stand\\Desktop\\\u0420\u0430\u0431\u043E\u0442\u044B\\\u0423\u0440\u043E\u043A 38\\\u0417\u0430\u0434\u0430\u0447\u0430 \u0421\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{73B8EAB2-468B-42AA-BEFD-E66208E74A32}|\u0417\u0430\u0434\u0430\u0447\u0430 \u0421\\\u0417\u0430\u0434\u0430\u0447\u0430 \u0421.vcxproj|C:\\Users\\Stand\\Desktop\\\u0420\u0430\u0431\u043E\u0442\u044B\\\u0423\u0440\u043E\u043A 38\\\u0417\u0430\u0434\u0430\u0447\u0430 \u0421\\\u0417\u0430\u0434\u0430\u0447\u0430 \u0421\\\u0417\u0430\u0434\u0430\u0447\u0430 \u0421.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{73B8EAB2-468B-42AA-BEFD-E66208E74A32}|\u0417\u0430\u0434\u0430\u0447\u0430 \u0421\\\u0417\u0430\u0434\u0430\u0447\u0430 \u0421.vcxproj|solutionrelative:\u0417\u0430\u0434\u0430\u0447\u0430 \u0421\\\u0417\u0430\u0434\u0430\u0447\u0430 \u0421.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "\u0417\u0430\u0434\u0430\u0447\u0430 \u0421.cpp",
+              "DocumentMoniker": "C:\\Users\\Stand\\Desktop\\\u0420\u0430\u0431\u043E\u0442\u044B\\\u0423\u0440\u043E\u043A 38\\\u0417\u0430\u0434\u0430\u0447\u0430 \u0421\\\u0417\u0430\u0434\u0430\u0447\u0430 \u0421\\\u0417\u0430\u0434\u0430\u0447\u0430 \u0421.cpp",
+              "RelativeDocumentMoniker": "\u0417\u0430\u0434\u0430\u0447\u0430 \u0421\\\u0417\u0430\u0434\u0430\u0447\u0430 \u0421.cpp",
+              "ToolTip": "C:\\Users\\Stand\\Desktop\\\u0420\u0430\u0431\u043E\u0442\u044B\\\u0423\u0440\u043E\u043A 38\\\u0417\u0430\u0434\u0430\u0447\u0430 \u0421\\\u0417\u0430\u0434\u0430\u0447\u0430 \u0421\\\u0417\u0430\u0434\u0430\u0447\u0430 \u0421.cpp",
+              "RelativeToolTip": "\u0417\u0430\u0434\u0430\u0447\u0430 \u0421\\\u0417\u0430\u0434\u0430\u0447\u0430 \u0421.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-09-22T15:36:03.443Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
