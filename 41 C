@@ -1,0 +1,26 @@
+#include <iostream>
+using namespace std;
+
+int main() {
+    int a, b, c, f ,g;
+    cout << "Enter three numbers: ";
+    cin >> a >> b >> c >> f >> g;
+
+    if (a >= b && a >= c && a >= f && a >= g) {
+        cout << "biggest number " << a;
+    }
+    else if (b >= a && b >= c && b >= f && b >= g) {
+        cout << "biggest number " << b;
+    }
+    else if (f >= g && f >= a && f >= b && f >= c) {
+        cout << "biggest number" << f;
+    }
+    else if (g >= f && g >= a && g >= b && g >= c) {
+        cout << "biggest number" << g;
+    }
+    else {
+        cout << "biggest number " << c;
+    }
+
+    return 0;
+}
