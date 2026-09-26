@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Alexander\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\FirstProgram\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AE8CE66B-4FED-48C6-87C3-95408EF98F16}|FirstProgram\\FirstProgram.vcxproj|C:\\Users\\Alexander\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\FirstProgram\\FirstProgram\\FirstProgram.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AE8CE66B-4FED-48C6-87C3-95408EF98F16}|FirstProgram\\FirstProgram.vcxproj|solutionrelative:FirstProgram\\FirstProgram.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FirstProgram.cpp",
+              "DocumentMoniker": "C:\\Users\\Alexander\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\FirstProgram\\FirstProgram\\FirstProgram.cpp",
+              "RelativeDocumentMoniker": "FirstProgram\\FirstProgram.cpp",
+              "ToolTip": "C:\\Users\\Alexander\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\FirstProgram\\FirstProgram\\FirstProgram.cpp",
+              "RelativeToolTip": "FirstProgram\\FirstProgram.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-09-21T13:16:11.248Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
